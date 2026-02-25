@@ -27,5 +27,5 @@ I build practical AI agent systems: orchestration loops, persistent agents with 
 ## Connect
 
 - ✍️ [mobrienv.dev](https://mobrienv.dev)
-- 🌊 [ρ (rhobot.dev)](https://rhobot.dev)
+- [ρ (rhobot.dev)](https://rhobot.dev)
 - 🐙 [GitHub](https://github.com/mikeyobrien)
