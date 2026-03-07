@@ -19,6 +19,8 @@ I build practical AI agent systems: orchestration loops, persistent agents with 
 - 🤝 **[pi-gemini-agent](https://github.com/mikeyobrien/pi-gemini-agent)** — delegate complex autonomous tasks to Gemini agent mode.
 - 🔎 **[pi-codex-search](https://github.com/mikeyobrien/pi-codex-search)** — structured web research/search for agent workflows.
 - 📈 **[pi-otlp](https://github.com/mikeyobrien/pi-otlp)** — observability and telemetry integration for pi agents.
+- 🧪 **[tonic](https://github.com/mikeyobrien/tonic)** — Elixir-like programming language for systems programming.
+  
 
 ## Activity
 
