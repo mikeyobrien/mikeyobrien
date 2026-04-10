@@ -14,6 +14,8 @@ I build practical AI agent systems: orchestration loops, persistent agents with 
 ## Current Projects
 
 - 🧠 **[ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator)** — improved Ralph Wiggum-style autonomous AI orchestration.
+- 🔁 **[autoloop](https://github.com/mikeyobrien/autoloop)** — autonomous LLM loop harness and control plane for long-horizon, multi-role agent work.
+- 🧩 **[pi-autoloop](https://github.com/mikeyobrien/pi-autoloop)** — Pi extension for running autoloop autonomous LLM loops.
 - 🌊 **[rho](https://github.com/mikeyobrien/rho)** — persistent AI agent with memory and heartbeat check-ins across sessions.
 - 🔌 **[pi-provider-kiro](https://github.com/mikeyobrien/pi-provider-kiro)** — Kiro/AWS Builder ID provider integration for pi.
 - 🤝 **[pi-gemini-agent](https://github.com/mikeyobrien/pi-gemini-agent)** — delegate complex autonomous tasks to Gemini agent mode.
