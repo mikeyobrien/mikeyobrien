@@ -13,17 +13,30 @@ I build practical AI agent systems: orchestration loops, persistent agents with 
 
 ## Current Projects
 
-- 🧠 **[ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator)** — improved Ralph Wiggum-style autonomous AI orchestration.
-- 🔁 **[autoloop](https://github.com/mikeyobrien/autoloop)** — autonomous LLM loop harness and control plane for long-horizon, multi-role agent work.
-- 🧩 **[pi-autoloop](https://github.com/mikeyobrien/pi-autoloop)** — Pi extension for running autoloop autonomous LLM loops.
-- 🌊 **[rho](https://github.com/mikeyobrien/rho)** — persistent AI agent with memory and heartbeat check-ins across sessions.
-- 🔌 **[pi-provider-kiro](https://github.com/mikeyobrien/pi-provider-kiro)** — Kiro/AWS Builder ID provider integration for pi.
-- 🤝 **[pi-gemini-agent](https://github.com/mikeyobrien/pi-gemini-agent)** — delegate complex autonomous tasks to Gemini agent mode.
-- 🔎 **[pi-codex-search](https://github.com/mikeyobrien/pi-codex-search)** — structured web research/search for agent workflows.
-- 📈 **[pi-otlp](https://github.com/mikeyobrien/pi-otlp)** — observability and telemetry integration for pi agents.
-- 📌 **[pi-pin-context](https://github.com/mikeyobrien/pi-pin-context)** — preserve context through compaction.
-- 🧪 **[tonic](https://github.com/mikeyobrien/tonic)** — Elixir-like programming language for systems programming.
-  
+### Agent systems
+
+- 🧠 **[ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator)** — hat-based orchestration that keeps coding agents iterating until the work is done.
+- 🔁 **[autoloop](https://github.com/mikeyobrien/autoloop)** — control plane for long-running, multi-role LLM loops.
+- 🌊 **[rho](https://github.com/mikeyobrien/rho)** — always-on personal AI operator with memory and scheduled check-ins.
+
+### Pi ecosystem
+
+- 🧹 **[pi-tidy](https://github.com/mikeyobrien/pi-tidy-tools)** — focused packages for scannable tool output, subagent fan-out, durable memory, and mobile-friendly status.
+- 🧩 **[pi-autoloop](https://github.com/mikeyobrien/pi-autoloop)** — run autoloop workflows from Pi.
+- 🎩 **[pi-ralph](https://github.com/mikeyobrien/pi-ralph)** — manage Ralph loops from the Pi TUI.
+- 🔌 **[pi-provider-kiro](https://github.com/mikeyobrien/pi-provider-kiro)** — Kiro/AWS Builder ID model provider for Pi.
+- 🤝 **[pi-gemini-agent](https://github.com/mikeyobrien/pi-gemini-agent)** — delegate autonomous work to Gemini agent mode.
+- 🔎 **[pi-codex-search](https://github.com/mikeyobrien/pi-codex-search)** — structured Codex-backed web research.
+- 🔭 **[pi-gemini-search](https://github.com/mikeyobrien/pi-gemini-search)** — Gemini CLI web research as a native Pi tool.
+- 📈 **[pi-otlp](https://github.com/mikeyobrien/pi-otlp)** — OpenTelemetry metrics for Pi sessions, tools, tokens, cost, and timing.
+- 📌 **[pi-pin-context](https://github.com/mikeyobrien/pi-pin-context)** — pin files and patterns into Pi session context.
+- 🧰 **[pi-extensions](https://github.com/mikeyobrien/pi-extensions)** — independently installable Pi extensions.
+
+### Developer tools
+
+- 🛰️ **[sgx](https://github.com/mikeyobrien/sgx)** — agent-first CLI for X search, Grok research, and persistent research threads.
+- 🤖 **[emacsapk](https://github.com/mikeyobrien/emacsapk)** — build Emacs and Termux APKs signed for shared Android filesystem access.
+- 🧪 **[tonic](https://github.com/mikeyobrien/tonic)** — Elixir-inspired systems language and native toolchain implemented in Rust.
 
 ## Activity
 
